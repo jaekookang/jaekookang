@@ -15,7 +15,7 @@ lasttweet_token <- function() {
   )
 }
 
-handle <- "jaekookang"
+handle <- "jkang"
 recent_tweets <- get_timeline(handle, n = 1, token = lasttweet_token())
 
 tmpimg <- "tweet.png"
