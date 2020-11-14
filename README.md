@@ -7,3 +7,17 @@
 <br />
 
 ### Last Tweet
+<div>
+	<img src="https://raw.githubusercontent.com/jaekookang/jaekookang/main/tweet.png" width="500">
+</div>
+
+---
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <!-- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /> -->
+
+</details>
+
+[twitter]: https://twitter.com/JKOO85823449
+[researchgate]: https://www.researchgate.net/profile/Jaekoo_Kang
