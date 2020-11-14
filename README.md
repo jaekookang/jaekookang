@@ -1,4 +1,8 @@
+<br />
+
 ### Hi, I'm Jaekoo. I work on the human speech production and perception. 🗣 👅 🎧
+
+<br />
 
 ## Connect with me
 [<img align="left" alt="jkang | Twitter" width="22px" src="https://raw.githubusercontent.com/jaekookang/jaekookang/main/icon/twitter.svg" />][twitter]
