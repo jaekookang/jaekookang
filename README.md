@@ -10,7 +10,9 @@
 
 <br />
 
-## Lastest Note
+## Lastest Research Note
+soon!
+
 <div>
 	<img src="https://raw.githubusercontent.com/jaekookang/jaekookang/main/tweet.png" width="500">
 </div>
