@@ -15,6 +15,7 @@ lasttweet_token <- function() {
   )
 }
 
+# Specify your twitter ID
 handle <- "JKOO85823449"
 recent_tweets <- get_timeline(handle, n = 1, token = lasttweet_token())
 
