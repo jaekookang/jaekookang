@@ -4,9 +4,10 @@
 library(tweetrmd)
 library(rtweet)
 
+# Add secret environment variables at GitHub
 lasttweet_token <- function() {
   create_token(
-    "get-last-tweet",
+    "get-lastest-tweet-jk",
     consumer_key = Sys.getenv("CONSUMER_KEY"),
     consumer_secret = Sys.getenv("CONSUMER_SECRET"),
     access_token = Sys.getenv("ACCESS_TOKEN"),
