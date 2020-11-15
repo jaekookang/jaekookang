@@ -10,7 +10,7 @@
 
 <br />
 
-## Lastest Research Note
+## Latest Research Note
 
 <div>
 	<img src="https://raw.githubusercontent.com/jaekookang/jaekookang/main/tweet.png" width="500">
@@ -20,11 +20,24 @@
 
 ---
 <!-- <details> -->
+
+<div style="display:inline-block; !important">
 <summary>:zap: GitHub Stats</summary>
 
 <img align="left" alt="jaekookang's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jaekookang&show_icons=true&hide_border=true&hide=prs?count_private=true" />
 
 <!-- </details> -->
+</div>
+
+---
+
+<!-- 
+	This profile was created based on [zhiiiyang], [codeSTACKr] and [anuraghazra]. 
+-->
 
 [twitter]: https://twitter.com/JKOO85823449
 [researchgate]: https://www.researchgate.net/profile/Jaekoo_Kang
+[codeSTACKr]: https://github.com/codeSTACKr
+[zhiiiyang]: https://github.com/zhiiiyang/zhiiiyang
+[anuraghazra]: https://github.com/anuraghazra/github-readme-stats
+
