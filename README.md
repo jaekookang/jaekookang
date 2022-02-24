@@ -10,14 +10,6 @@
 
 <br />
 
-## Latest Research Note
-
-<div>
-	<img src="https://raw.githubusercontent.com/jaekookang/jaekookang/main/tweet.png" width="500">
-</div>
-
-<br />
-
 ---
 <!-- <details> -->
 
