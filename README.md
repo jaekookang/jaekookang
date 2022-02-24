@@ -10,7 +10,6 @@
 
 <br />
 
----
 <!-- <details> -->
 
 <div style="display:inline-block; !important">
