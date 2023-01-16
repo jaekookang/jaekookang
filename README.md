@@ -12,17 +12,6 @@
 <br />
 <br />
 
-<!-- <details> -->
-
-<div style="display:inline-block; !important">
-<summary>:zap: GitHub Stats</summary>
-
-<img align="left" alt="jaekookang's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jaekookang&show_icons=true&hide_border=true&hide=prs?count_private=true" />
-
-<!-- </details> -->
-</div>
-
-
 <!-- 
 	This profile was created based on [zhiiiyang], [codeSTACKr] and [anuraghazra]. 
 -->
